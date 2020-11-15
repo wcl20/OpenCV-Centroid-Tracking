@@ -21,4 +21,5 @@ python3 main.py
 ```
 ## Resources
 [Centroid Tracking](https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/)
+
 [Face Detection](https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
